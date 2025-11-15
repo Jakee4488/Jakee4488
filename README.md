@@ -20,10 +20,10 @@ I am a First Class Honors graduate in Computer Science with AI from Coventry Uni
 
 Here are a few projects you can find on my GitHub:
 
-* **[Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/Custom%20GPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
-* **[CNN for Plant Disease Classification](https://github.com/Jakee4488/Plant%20Diseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
+* **[Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
+* **[CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
 * **[Mushroom Classification Analysis](https://github.com/Jakee4488/Mushroom_Classification)**: A project utilizing various ML algorithms (Random Forest, Logistic Regression, SVMs) for mushroom classification.
-* **[Secure Online Bookshop](https://github.com/Jakee4488/BookShop2-6005-secure-v2)**: A secure online bookshop application built with Python Flask, JavaScript, HTML, and CSS, implementing RSA encryption for password protection.
+* **[GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
 ---
 
