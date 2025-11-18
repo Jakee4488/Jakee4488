@@ -2,7 +2,7 @@
 
 I'm an **MLOps Engineer** and **Software Developer** with a specialization in Artificial Intelligence.
 
-I am a First Class Honors graduate in Computer Science with AI from Coventry University. I have 2 years of industry experience focusing on full-stack development, IT management, and deploying scalable AI models in production environments using AWS and GCP.
+I am a First Class Honours graduate in Computer Science with AI from Coventry University. I have 2 years of industry experience focusing on full-stack development, IT management, and deploying scalable AI models in production environments using AWS and GCP.
 
 ---
 
@@ -16,13 +16,18 @@ I am a First Class Honors graduate in Computer Science with AI from Coventry Uni
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 Here are a few projects you can find on my GitHub:
 
 * **[Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
+
+* **[End-to-end MLOps with Databricks](https://github.com/Jakee4488/MLOps_Databricks_Project)**: This repository provides a simple, end-to-end MLOps architecture implemented within the Databricks platform. It includes a minimal, working machine learning project that demonstrates the key stages of an MLOps lifecycle, including data preparation, model training and tracking (using MLflow), model registration, and batch inference or serving.
+
 * **[CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
+
 * **[Mushroom Classification Analysis](https://github.com/Jakee4488/Mushroom_Classification)**: A project utilizing various ML algorithms (Random Forest, Logistic Regression, SVMs) for mushroom classification.
+
 * **[GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
 ---
