@@ -20,16 +20,20 @@ I am a First Class Honours graduate in Computer Science with AI from Coventry Un
 
 Here are a few projects you can find on my GitHub:
 
-* **[Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
+## 🚀 Project Portfolio
 
-* **[End-to-end MLOps with Databricks](https://github.com/Jakee4488/MLOps_Databricks_Project)**: This repository provides a simple, end-to-end MLOps architecture implemented within the Databricks platform. It includes a minimal, working machine learning project that demonstrates the key stages of an MLOps lifecycle, including data preparation, model training and tracking (using MLflow), model registration, and batch inference or serving.
+* **💬🤖 [Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
 
-* **[CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
+* **🛠️🔄 [End-to-end MLOps with Databricks](https://github.com/Jakee4488/MLOps_Databricks_Project)**: This repository provides a simple, end-to-end MLOps architecture implemented within the Databricks platform. It includes a minimal, working machine learning project that demonstrates the key stages of an MLOps lifecycle, including data preparation, model training and tracking (using MLflow), model registration, and batch inference or serving.
 
-* **[Mushroom Classification Analysis](https://github.com/Jakee4488/Mushroom_Classification)**: A project utilizing various ML algorithms (Random Forest, Logistic Regression, SVMs) for mushroom classification.
+* **🌿🔬 [CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
 
-* **[GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
+* **🍄💻 [Mushroom Classification Analysis](https://github.com/Jakee4488/Mushroom_Prediction_ML_project)**: 🍄Mushroom Classification with MLOps. This repository contains a complete Python solution for classifying mushrooms as edible or poisonous using various Machine Learning algorithms. More importantly, it demonstrates how to transform an experimental ML model into a reliable, production-ready system through the adoption of MLOps principles.
+* **🕸️📊 [GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
+---
+
+Would you like me to suggest any other improvements or changes to the formatting of this list?
 ---
 
 ## 📫 Connect with Me
