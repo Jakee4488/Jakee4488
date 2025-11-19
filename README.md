@@ -32,7 +32,6 @@ Here are a few projects you can find on my GitHub:
 * **🕸️📊 [GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
 
 ---
----
 
 ## 📫 Connect with Me
 
