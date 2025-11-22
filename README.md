@@ -5,13 +5,14 @@ I'm an **MLOps Engineer** and **Software Developer** with a specialization in Ar
 I am a First Class Honours graduate in Computer Science with AI from Coventry University. I have 2 years of industry experience focusing on full-stack development, IT management, and deploying scalable AI models in production environments using AWS and GCP.
 
 * **[Porfolio website](https://jakee4488.github.io/)**
+  
 ---
 
 ## 🚀 My Tech Stack
 
-* **AI & Machine Learning:** Python, TensorFlow, Keras, PyTorch, scikit-learn, CNNs, Transformers
-* **NLP & CV:** LangChain, LangGraph, Hugging Face Transformers, OpenAI API, RAG, OpenCV
-* **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, CI/CD
+* **AI & Machine Learning:** Python, TensorFlow, Keras, PyTorch, scikit-learn, CNNs, Transformers,Glue
+* **NLP & CV:** LangChain, LangGraph, Hugging Face Transformers, OpenAI API, RAG, OpenCV,
+* **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, CI/CD, Databricks
 * **Web & Full-Stack:** React, Flask, Django, HTML/CSS, JavaScript
 * **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 
