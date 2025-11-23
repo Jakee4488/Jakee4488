@@ -24,14 +24,19 @@ Here are a few projects you can find on my GitHub:
 
 ## 🚀 Project Portfolio
 
-* **💬🤖 [Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: My dissertation project, creating a context-aware chatbot using state-of-the-art LLMs (like GPT and Llama2) and a Retrieval Augmented Generation (RAG) framework.
-
 * **🛠️🔄 [End-to-end MLOps with Databricks](https://github.com/Jakee4488/MLOps_Databricks_Project)**: This repository provides a simple, end-to-end MLOps architecture implemented within the Databricks platform. It includes a minimal, working machine learning project that demonstrates the key stages of an MLOps lifecycle, including data preparation, model training and tracking (using MLflow), model registration, and batch inference or serving.
 
-* **🌿🔬 [CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A comparative analysis of various Convolutional Neural Network (CNN) architectures to evaluate performance in detecting and classifying plant diseases.
+* **🌿🔬 [CNN for Plant Disease Classification](https://github.com/Jakee4488/PlantDiseases_CNN_Classification)**: A production-ready MLOps system for classifying plant diseases (Healthy, Powdery, Rust) using Convolutional Neural Networks (CNNs). This project
+transforms a research notebook into a scalable, reproducible, and automated machine learning pipeline.
 
 * **🍄💻 [Mushroom Classification Analysis](https://github.com/Jakee4488/Mushroom_Prediction_ML_project)**: 🍄Mushroom Classification with MLOps. This repository contains a complete Python solution for classifying mushrooms as edible or poisonous using various Machine Learning algorithms. More importantly, it demonstrates how to transform an experimental ML model into a reliable, production-ready system through the adoption of MLOps principles.
-* **🕸️📊 [GraphRag-Neo4j_llama3.1](https://github.com/Jakee4488/GraphRag-Neo4j_llama3.1)**: GraphRag-Neo4j_llama3.1 is an implementation of Graph RAG using Neo4j and llama_3.1. This project aims to leverage the power of graph databases and machine learning for advanced relational data processing and analysis.
+
+* **🕸️ [Knowledge Graph RAG System](https://github.com/Jakee4488/Graphrag-flaskapp)**: Implementation of a GraphRAG system using a Flask application with the Ollama API and locally built models, leveraging graph-based structures for advanced query retrieval.
+
+* **💬🤖 [Context-Aware Chatbot Using RAG Framework](https://github.com/Jakee4488/CustomGPT-RAG)**: A context-aware chatbot built using a Retrieval-Augmented Generation (RAG) framework, leveraging state-of-the-art large language models such as OpenAI’s GPT and Meta’s Llama 
+  
+* **📊 [Twitter Sentiment Analysis for Financial Markets](https://github.com/Jakee4488/Twitter_Sentiment_Analysis)**: A production-ready Flask application that analyses real-time tweets from top financial influencers and institutions using advanced NLP
+sentiment analysis. Track market sentiment, identify trends, and visualize financial opinions with an interactive dashboard.
 
 ---
 
