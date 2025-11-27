@@ -38,6 +38,7 @@ transforms a research notebook into a scalable, reproducible, and automated mach
 * **📊 [Twitter Sentiment Analysis for Financial Markets](https://github.com/Jakee4488/Twitter_Sentiment_Analysis)**: A production-ready Flask application that analyses real-time tweets from top financial influencers and institutions using advanced NLP
 sentiment analysis. Track market sentiment, identify trends, and visualize financial opinions with an interactive dashboard.
 
+
 ---
 
 ## 📫 Connect with Me
