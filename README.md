@@ -5,7 +5,7 @@ I'm an **MLOps Engineer** and **Software Developer** with a specialization in Ar
 I am a First Class Honours graduate in Computer Science with AI from Coventry University. I have 2 years of industry experience focusing on full-stack development, IT management, and deploying scalable AI models in production environments using AWS and GCP.
 
 * **[Porfolio website](https://jakee4488.github.io/)**
-  
+
 ---
 
 ## 🚀 My Tech Stack
