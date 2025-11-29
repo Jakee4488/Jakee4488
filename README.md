@@ -22,6 +22,7 @@ I am a First Class Honours graduate in Computer Science with AI from Coventry Un
 
 Here are a few projects you can find on my GitHub:
 
+
 ## 🚀 Project Portfolio
 
 * **🛠️🔄 [End-to-end MLOps with Databricks](https://github.com/Jakee4488/MLOps_Databricks_Project)**: This repository provides a simple, end-to-end MLOps architecture implemented within the Databricks platform. It includes a minimal, working machine learning project that demonstrates the key stages of an MLOps lifecycle, including data preparation, model training and tracking (using MLflow), model registration, and batch inference or serving.
