@@ -11,7 +11,7 @@ I am a First Class Honours graduate in Computer Science with AI from Coventry Un
 ## 🚀 My Tech Stack
 
 * **AI & Machine Learning:** Python, TensorFlow, Keras, PyTorch, scikit-learn, CNNs, Transformers,Glue
-* **NLP & CV:** LangChain, LangGraph, Hugging Face Transformers, OpenAI API, RAG, OpenCV,
+* **NLP & CV:** LangChain, LangGraph, Hugging Face Transformers, OpenAI API, RAG, OpenCV
 * **Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, CI/CD, Databricks
 * **Web & Full-Stack:** React, Flask, Django, HTML/CSS, JavaScript
 * **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
@@ -39,7 +39,6 @@ transforms a research notebook into a scalable, reproducible, and automated mach
   
 * **📊 [Twitter Sentiment Analysis for Financial Markets](https://github.com/Jakee4488/Twitter_Sentiment_Analysis)**: A production-ready Flask application that analyses real-time tweets from top financial influencers and institutions using advanced NLP
 sentiment analysis. Track market sentiment, identify trends, and visualize financial opinions with an interactive dashboard.
-
 
 ---
 
