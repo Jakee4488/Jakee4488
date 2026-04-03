@@ -1,0 +1,8 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.linkedin.com"
+    }
+  ],
+  "aliveStatusCodes": [200, 206]
+}
