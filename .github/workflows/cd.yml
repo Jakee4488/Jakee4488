@@ -1,0 +1,41 @@
+name: CD Pipeline
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy-profile:
+    name: Deploy / Update Profile
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Verify README is present
+        run: |
+          if [ ! -f README.md ]; then
+            echo "ERROR: README.md not found!"
+            exit 1
+          fi
+          echo "README.md found — profile is ready."
+          echo "Profile last updated: $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+      - name: Summarize deployment
+        run: |
+          echo "==========================================="
+          echo "  ✅ Profile README deployed successfully  "
+          echo "  Branch : ${{ github.ref_name }}"
+          echo "  Commit : ${{ github.sha }}"
+          echo "  Actor  : ${{ github.actor }}"
+          echo "==========================================="
