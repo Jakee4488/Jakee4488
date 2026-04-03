@@ -35,10 +35,9 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const author = context.payload.sender.login;
-            await github.rest.pulls.createReview({
+            await github.rest.issues.createComment({
               owner,
               repo,
-              pull_number: context.payload.pull_request.number,
-              event: 'COMMENT',
+              issue_number: context.payload.pull_request.number,
               body: `🎉 Thanks for your contribution, @${author}! The CI pipeline will run checks shortly.`,
             });

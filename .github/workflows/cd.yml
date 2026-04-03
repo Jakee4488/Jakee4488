@@ -8,6 +8,8 @@ jobs:
   deploy-profile:
     name: Deploy / Update Profile
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,7 +31,7 @@ jobs:
           echo "README.md found — profile is ready."
           echo "Profile last updated: $(date -u '+%Y-%m-%d %H:%M UTC')"
 
-      - name: Summarise deployment
+      - name: Summarize deployment
         run: |
           echo "==========================================="
           echo "  ✅ Profile README deployed successfully  "
