@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob Binu 👋
 
-Data Engineer and MLOps Engineer with experience building productiongrade data and AI systems across Azure, AWS, GCP, and Databricks. I develop
+AI Data Engineer and MLOps Engineer with experience building productiongrade data and AI systems across Azure, AWS, GCP, and Databricks. I develop
 ETL pipelines, cloud-based data workflows, and CI/CD processes that
 support analytics, machine learning, and regulated business use cases. My
 background combines Python, SQL, JavaScript, and modern MLOps practices
