@@ -1,8 +1,14 @@
 # Hi there, I'm Jacob Binu 👋
 
-I'm an **MLOps Engineer** and **Software Developer** with a specialization in Artificial Intelligence.
+Data Engineer and MLOps Engineer with experience building productiongrade data and AI systems across Azure, AWS, GCP, and Databricks. I develop
+ETL pipelines, cloud-based data workflows, and CI/CD processes that
+support analytics, machine learning, and regulated business use cases. My
+background combines Python, SQL, JavaScript, and modern MLOps practices
+with hands-on delivery of scalable data platforms, model deployment, and
+automation. I work comfortably across data engineering and AI teams,
+translating technical requirements into reliable solutions with strong
+attention to data quality, governance, and operational performance.
 
-I am a First Class Honours graduate in Computer Science with AI from Coventry University. I have 2 years of industry experience focusing on full-stack development, IT management, and deploying scalable AI models in production environments using AWS and GCP.
 
 * **[Porfolio website](https://jakee4488.github.io/)**
 
