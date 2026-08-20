@@ -1,5 +1,6 @@
 # Hi there, I'm Jacob Binu 👋
 
+
 AI Data Engineer and MLOps Engineer with experience building productiongrade data and AI systems across Azure, AWS, GCP, and Databricks. I develop
 ETL pipelines, cloud-based data workflows, and CI/CD processes that
 support analytics, machine learning, and regulated business use cases. My
@@ -8,6 +9,7 @@ with hands-on delivery of scalable data platforms, model deployment, and
 automation. I work comfortably across data engineering and AI teams,
 translating technical requirements into reliable solutions with strong
 attention to data quality, governance, and operational performance.
+
 
 
 * **[Porfolio website](https://jakee4488.github.io/)**
